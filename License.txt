@@ -1,0 +1,17 @@
+2.01. Provide service in their areas of competence, being honest and forthright about any limitations of their experience and education.
+
+2.02. Not knowingly use software that is obtained or retained either illegally or unethically.
+
+2.03. Use the property of a client or employer only in ways properly authorized, and with the client’s or employer’s knowledge and consent.
+
+2.04. Ensure that any document upon which they rely has been approved, when required, by someone authorized to approve it.
+
+2.05. Keep private any confidential information gained in their professional work, where such confidentiality is consistent with the public interest and consistent with the law.
+
+2.06. Identify, document, collect evidence and report to the client or the employer promptly if, in their opinion, a project is likely to fail, to prove too expensive, to violate intellectual property law, or otherwise to be problematic.
+
+2.07. Identify, document, and report significant issues of social concern, of which they are aware, in software or related documents, to the employer or the client.
+
+2.08. Accept no outside work detrimental to the work they perform for their primary employer.
+
+2.09. Promote no interest adverse to their employer or client, unless a higher ethical concern is being compromised; in that case, inform the employer or another appropriate authority of the ethical concern.
