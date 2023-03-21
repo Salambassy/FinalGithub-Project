@@ -1,0 +1,21 @@
+
+In order to contribute, it may be required that you set up an account with the site or platform where the project you want to contribute to is hosted. This should clearly identify you as an employee of the Government of Canada since you would be contributing back as such. If there is an option to have your organization listed on the project, it would be beneficial to do so as well.
+
+Currently, it is recommended that employees use their full name and Government of Canada email address for all code contributions to public repositories while acting within the scope of their duties or employment as this is the primary way of identifying your work. Some services allow you to list multiple email addresses, others may require you to set up a new account for official contributions.
+
+Note: this provision is related to the Public Servant Invention Act, section 3. Additional clarification as to the means of identifying as an employee of the GC without requiring the email address in commits will need to be sought to ease the process and your organization may already have its own guidance around this topic.
+
+Submit changes
+To make changes in open source software, engage with the community and submit your changes upstream, which means to the original project, to ensure that your modifications are supported by future updates. This way, your changes will help improve the software for everyone that uses it but you will also ensure that you stay in line with the original project and don’t have to maintain a separate version of the source code.
+
+Contributing to a 3rd party should be done in accordance to the project governance model, if such a model is present.
+
+Contribute through professional services
+If your department would like to leverage professional services to contribute to third party projects, see Obtain Rights to Custom Code in Contracts.
+
+Publish contributions regardless of upstream acceptance
+Whether or not a given set of changes is accepted upstream as a contribution, the changes should still be published in accordance with the Guide for Publishing Open Source Code.
+
+Publication allows upstream, the original project, to pick up the changes at some later date, and allows 3rd parties to pick up the changes independently of when or whether upstream does so.
+
+Changes not accepted by upstream should still be noted in upstream forums where possible and appropriate, so that 3rd parties who might be interested in those changes have a means of discovering them.
